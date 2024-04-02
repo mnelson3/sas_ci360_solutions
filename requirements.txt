@@ -1,0 +1,28 @@
+cryptography
+matplotlib
+numpy
+packaging
+pandas~=1.4.2
+PyJWT
+python-daemon
+python-dateutil
+query-string
+requests~=2.27.1
+rsa
+sas-dlpy
+sas-esppy
+SAS-kernel
+saspy
+schedule
+service~=0.6.0
+servicemanager~=2.0.10
+# win32service
+# win32event
+urllib3
+twine
+
+sasci360apimarketinggateway~=0.0.1
+google~=3.0.0
+DateTime~=4.3
+ftfy~=6.1.1
+sasci360apicore~=0.0.1
