@@ -1,4 +1,4 @@
-# sas_ci360_solutions
+# SAS CI360 Solutions
 
 Historical SAS Customer Intelligence 360 solutions repository, retained as a reference for the consolidated implementation. It is the orchestration layer of the `sas-ci360` package family: it runs as a long-lived Windows/Unix service that schedules and drives the individual CI 360 API packages (marketing data, content delivery, identity data, planning) end to end.
 
