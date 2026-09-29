@@ -1,5 +1,7 @@
 # SAS CI360 Solutions
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/mnelson3/sas_ci360_solutions/blob/develop/LICENSE)
+
 Historical SAS Customer Intelligence 360 solutions repository, retained as a reference for the consolidated implementation. It is the orchestration layer of the `sas-ci360` package family: it runs as a long-lived Windows/Unix service that schedules and drives the individual CI 360 API packages (marketing data, content delivery, identity data, planning) end to end.
 
 > This repository is superseded by [`sas-ci360-solutions`](https://github.com/mnelson3/sas-ci360-solutions), which holds the maintained implementation. Use this repository for reference only.
